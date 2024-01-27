@@ -1,0 +1,2 @@
+# minesweeper
+jafafx minesweeper application
